@@ -1,0 +1,1 @@
+Tic-Tac-Toe game built using HTML, CSS and JavaScript with win detection, move history tracking, and dynamic UI highlights.tictactoe, javascript, dom-manipulation, web-game, beginner-project, html-css-js
